@@ -1,30 +1,32 @@
-## **CAPITULO 4**
+## CAPITULO 4
 
-## **4.1. Style Guidelines**
+## 4.1. Style Guidelines
 
 > Esta guía ayudará al equipo a definir las principales reglas de diseño
-> que debe tener la plataforma web **Sendify**. Se detallan elementos
+> que debe tener la plataforma web Sendify. Se detallan elementos
 > como tipografía, paleta de colores, iconografía, tamaños de fuente,
 > disposición visual y tono de comunicación, todos ellos orientados a
 > garantizar una experiencia clara, moderna y confiable para los
 > usuarios.
 
-## **4.1. General Style Guidelines**
+## 4.1. General Style Guidelines
 
-**Logo:**
+Logo:
 
-El logo de **Sendify** simboliza **movimiento, rapidez y confianza en
-los envíos**. Su diseño incluye flechas y trayectorias estilizadas que
-evocan la **conexión logística**, apoyado en colores vibrantes que
+El logo de Sendify simboliza movimiento, rapidez y confianza en
+los envíos. Su diseño incluye flechas y trayectorias estilizadas que
+evocan la conexión logística, apoyado en colores vibrantes que
 transmiten innovación y seguridad. Debajo del isotipo se ubica el nombre
-**Sendify** en tipografía geométrica, reforzando la identidad
-tecnológica de la
-marca.![](media/image3.png){width="1.3958333333333333in"
-height="1.3645833333333333in"}
+Sendify en tipografía geométrica, reforzando la identidad
+tecnológica de la marca.
+
+<p align="center">
+  <img src="media/image3.png" width="220" />
+</p>
 
 ### Tipografía  
 
-La tipografía de *Sendify* debe garantizar *claridad, modernidad y legibilidad, especialmente en dispositivos móviles y *dashboards web.  
+La tipografía de Sendify debe garantizar claridad, modernidad y legibilidad, especialmente en dispositivos móviles y dashboards web.  
 
 | Elemento UI       | Tipografía elegida | Tamaño |
 |-------------------|--------------------|--------|
@@ -35,276 +37,247 @@ La tipografía de *Sendify* debe garantizar *claridad, modernidad y legibilidad,
 | Menú              | Montserrat Bold    | 15 px |
 | Botones           | Montserrat Bold    | 15 px |
   
-
 Cada tipo y tamaño de tipografía se ajustó de acuerdo a lo señalado por
 el Gobierno del Perú (2021a) en sus indicaciones de tamaño de letra para
-apps de escritorio y móviles
+apps de escritorio y móviles.
 
+PALETA DE COLORES
 
-**PALETA DE COLORES***
-
-![2](https://github.com/user-attachments/assets/b0fcace7-b643-485c-b2db-c31dfebe5782)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0fcace7-b643-485c-b2db-c31dfebe5782" width="800" />
+</p>
 
 *Nota*. Elaboración propia. [agrego link](https://www.canva.com/design/DAGzZ8xAuW0/RIXBCF5lGOnOKQcTppZbWA/edit?utm_content=DAGzZ8xAuW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-La paleta de colores de **Sendify** transmite **tecnología, dinamismo y
-confianza**. Se busca una experiencia visual clara, con colores que
+La paleta de colores de Sendify transmite tecnología, dinamismo y
+confianza. Se busca una experiencia visual clara, con colores que
 guíen al usuario en cada etapa de su envío.
 
--   **#111111 → Negro carbón:** Fondo principal, solidez, base de
-    > confianza.
+- #111111 → Negro carbón: Fondo principal, solidez, base de confianza.
+- #FFFFFF → Blanco puro: Textos principales, limpieza, contraste.
+- #F97316 → Naranja Sendify: Color de acento, botones CTA,
+  acciones clave.
+- #22C55E → Verde estado entregado: Éxito, confirmaciones.
+- #FACC15 → Amarillo estado en tránsito: Procesos activos.
+- #EF4444 → Rojo estado retraso/error: Alertas y notificaciones críticas.
 
--   **#FFFFFF → Blanco puro:** Textos principales, limpieza, contraste.
-
--   **#F97316 → Naranja Sendify:** Color de acento, botones CTA,
-    > acciones clave.
-
--   **#22C55E → Verde estado entregado:** Éxito, confirmaciones.
-
--   **#FACC15 → Amarillo estado en tránsito:** Procesos activos.
-
--   **#EF4444 → Rojo estado retraso/error:** Alertas y notificaciones
-    > críticas.
-
-Esta paleta se inspira en el mundo del transporte: **oscuridad como base
+Esta paleta se inspira en el mundo del transporte: oscuridad como base
 sólida, acentos cálidos para dinamismo y colores funcionales para
-estados logísticos.**
+estados logísticos.
 
 ### Header  
 
-El *header* utiliza fondo #111111 con tipografía en blanco y botones resaltados en naranja.  
+El header utiliza fondo #111111 con tipografía en blanco y botones resaltados en naranja.  
 En versiones móviles debe ser compacto, mientras que en pantallas grandes incluye menú expandido y barra de búsqueda de envíos.  
 
 | Dispositivo                   | Resolución     |
 |-------------------------------|----------------|
-| Teléfonos Android / iOS       | *720 × 1280 px* |
-| Apple Watch                   | *396 × 484 px* |
-| Google Nest Hub               | *1024 × 600 px* |
-| Android TV                    | *1920 × 1080 px* |
-| Laptops pequeñas              | *1366 × 768 px* |
-| Monitores estándar            | *1920 × 1080 px* |
+| Teléfonos Android / iOS       | 720 × 1280 px |
+| Apple Watch                   | 396 × 484 px |
+| Google Nest Hub               | 1024 × 600 px |
+| Android TV                    | 1920 × 1080 px |
+| Laptops pequeñas              | 1366 × 768 px |
+| Monitores estándar            | 1920 × 1080 px |
 
-Estas resoluciones fueron establecidas por los datos proporcionados por el *Gobierno del Perú (2021c)* para resoluciones en dispositivos inteligentes.
+Estas resoluciones fueron establecidas por los datos proporcionados por el Gobierno del Perú (2021c) para resoluciones en dispositivos inteligentes.
 
-**Sección de destinos:**
+Sección de destinos:
 
-La sección de destinos tendrá fondo **#FFFFFF** con un padding vertical
-de **60px**, encabezado centrado en tipografía **Sans Serif** de **28px
-en negrita** y una frase introductoria de **16px**; las opciones se
-organizarán en **tarjetas responsivas** de **300px de ancho**, fondo
-blanco con esquinas redondeadas de **10px**, sombra ligera y separación
-de **20px**, cada una con una imagen superior de **100x100px**, un
-título de **18px** y texto descriptivo de **14px**, incluyendo un efecto
+La sección de destinos tendrá fondo #FFFFFF con un padding vertical
+de 60px, encabezado centrado en tipografía Sans Serif de 28px
+en negrita y una frase introductoria de 16px; las opciones se
+organizarán en tarjetas responsivas de 300px de ancho, fondo
+blanco con esquinas redondeadas de 10px, sombra ligera y separación
+de 20px, cada una con una imagen superior de 100x100px, un
+título de 18px y texto descriptivo de 14px, incluyendo un efecto
 de aumento y sombra al pasar el cursor para mantener una estética
 limpia, moderna y clara.
 
-**Footer:**
+Footer:
 
-El footer de Sendify tendrá un fondo **#1A1A1A** con **40px de
-padding**, texto en **#E0E0E0** y enlaces en **#FFFFFF** que cambian a
-**#F97316** al pasar el cursor; el texto legal se mostrará en
-**#7D7F82** con tamaño de **12--14px**, alineado al centro en móviles y
+El footer de Sendify tendrá un fondo #1A1A1A con 40px de
+padding, texto en #E0E0E0 y enlaces en #FFFFFF que cambian a
+#F97316 al pasar el cursor; el texto legal se mostrará en
+#7D7F82 con tamaño de 12--14px, alineado al centro en móviles y
 en columnas en pantallas grandes, mientras que el botón flotante será un
-círculo en **#F97316** con ícono blanco, cambiando a **#EA580C** al
+círculo en #F97316 con ícono blanco, cambiando a #EA580C al
 hacer hover.
 
 Este diseño asegura un footer moderno, legible y accesible, alineado con
 la estética SaaS oscura y profesional de Sendify.
 
-**Brand Voice language:**
+Brand Voice language:
 
-El lenguaje de marca de Sendify debe transmitir **confianza, cercanía y
-claridad**, con un tono **educativo, motivador y accesible** que
-mantenga el profesionalismo; los mensajes serán **positivos,
-inspiradores y orientados a la acción**, fomentando que el usuario
+El lenguaje de marca de Sendify debe transmitir confianza, cercanía y
+claridad, con un tono educativo, motivador y accesible que
+mantenga el profesionalismo; los mensajes serán positivos,
+inspiradores y orientados a la acción, fomentando que el usuario
 sienta a Sendify como un aliado confiable en la gestión de sus envíos.
 
-### ***4.1.1. General Style Guidelines***
+### 4.1.1. General Style Guidelines
 
-### **Identidad centrada en el usuario**
+Identidad centrada en el usuario
 
-Sendify está diseñada para **resolver las necesidades reales de
-logística** de empresas y usuarios. La experiencia debe sentirse
+Sendify está diseñada para resolver las necesidades reales de
+logística de empresas y usuarios. La experiencia debe sentirse
 confiable, rápida y sin fricciones, con interfaces que simplifiquen el
 proceso de envío y seguimiento.
 
-### **Diseño adaptable e inteligente**
+Diseño adaptable e inteligente
 
 La plataforma debe funcionar en múltiples dispositivos conectados por
-**IoT** (smartphones, tablets, relojes inteligentes, pantallas de
+IoT (smartphones, tablets, relojes inteligentes, pantallas de
 control en almacenes). Cada interfaz debe mostrar información relevante
 según el contexto: estado de envíos, notificaciones de rutas, tiempos
 estimados, etc.
 
-### **Interacción fluida**
+Interacción fluida
 
 Registrar un envío, rastrear un paquete o recibir alertas debe ser un
 proceso inmediato. Los botones CTA deben ser claros, siempre visibles, y
 minimizar pasos innecesarios.
 
-### **Orden visual y jerarquía clara**
+Orden visual y jerarquía clara
 
 Los módulos deben organizarse en bloques lógicos:
 
--   Estado de envíos (destacado en la parte superior).
+- Estado de envíos (destacado en la parte superior).
+- Sección de rutas y tiempos estimados.
+- Alertas y notificaciones al final.  
+  Se debe usar espacio en blanco estratégico para separar
+  contenido y mantener claridad.
 
--   Sección de rutas y tiempos estimados.
+Visualización como herramienta
 
--   Alertas y notificaciones al final.\
-    > Se debe usar **espacio en blanco estratégico** para separar
-    > contenido y mantener claridad.
-
-### **Visualización como herramienta**
-
-Los gráficos y mapas interactivos deben mostrar **rutas en tiempo real,
+Los gráficos y mapas interactivos deben mostrar rutas en tiempo real,
 comparativas de costos, porcentajes de cumplimiento y proyecciones de
-entrega**. La estética debe ser moderna pero funcional: **lo visual debe
-ayudar a tomar decisiones logísticas rápidas.**
+entrega. La estética debe ser moderna pero funcional: lo visual debe
+ayudar a tomar decisiones logísticas rápidas.
 
-### **Lenguaje gráfico coherente**
+Lenguaje gráfico coherente
 
 Los íconos representarán acciones reales del sistema: enviar, rastrear,
 recibir, notificar, alertar. El estilo debe ser minimalista, con trazos
 limpios y consistencia en todo el ecosistema.
 
-### **Sistema tipográfico funcional**
+Sistema tipográfico funcional
 
-La tipografía **Montserrat** refuerza el carácter moderno y tecnológico
+La tipografía Montserrat refuerza el carácter moderno y tecnológico
 de Sendify. La jerarquía está definida para garantizar que lo más
 importante (estado de envíos, alertas) siempre sea visible de inmediato.
 
-### **Paleta de colores estratégica**
+Paleta de colores estratégica
 
--   **Naranja (#F97316):** acciones clave (enviar, confirmar, pagar).
+- Naranja (#F97316): acciones clave (enviar, confirmar, pagar).
+- Verde (#22C55E): éxito y entregas completadas.
+- Amarillo (#FACC15): envíos en tránsito.
+- Rojo (#EF4444): problemas o retrasos.
+- Negro/Blanco (#111111/#FFFFFF): base y contraste para todo el
+  sistema.
 
--   **Verde (#22C55E):** éxito y entregas completadas.
+Enfoque inclusivo y accesible
 
--   **Amarillo (#FACC15):** envíos en tránsito.
+Se debe asegurar contraste suficiente, compatibilidad con lectores de
+pantalla y botones accesibles para todo tipo de usuarios.
 
--   **Rojo (#EF4444):** problemas o retrasos.
+Rendimiento optimizado
 
--   **Negro/Blanco (#111111/#FFFFFF):** base y contraste para todo el
-    > sistema.
-
-**Enfoque inclusivo y accesible**
-
-Se debe asegurar **contraste suficiente, compatibilidad con lectores de
-pantalla y botones accesibles** para todo tipo de usuarios.
-
-### **Rendimiento optimizado**
-
-Dado que **Sendify opera en tiempo real**, el sistema debe priorizar
+Dado que Sendify opera en tiempo real, el sistema debe priorizar
 cargas rápidas, actualizaciones instantáneas de rutas y sincronización
 ligera para que el usuario siempre tenga información al instante.
 
-### **Validación constante**
+Validación constante
 
-La plataforma debe probarse con distintos perfiles de usuario: **pymes,
-couriers, clientes finales**, en diferentes dispositivos y entornos de
+La plataforma debe probarse con distintos perfiles de usuario: pymes,
+couriers, clientes finales, en diferentes dispositivos y entornos de
 conectividad. Las métricas de satisfacción y rapidez de uso serán clave.
 
-### **Relación emocional con el producto**
+Relación emocional con el producto
 
-Más que un sistema de logística, **Sendify debe sentirse como un aliado
-de confianza**. Su diseño, lenguaje y gráficos deben transmitir
+Más que un sistema de logística, Sendify debe sentirse como un aliado
+de confianza. Su diseño, lenguaje y gráficos deben transmitir
 seguridad, eficiencia y simplicidad: que cada usuario sienta que tiene
-el **control total de sus envíos**.
+el control total de sus envíos.
 
-La plataforma web de Sendify contará con un diseño **responsive**,
+La plataforma web de Sendify contará con un diseño responsive,
 garantizando una visualización óptima en cualquier dispositivo. Usaremos
 patrones ideal para guiar la atención hacia secciones clave como el
 dashboard, la creación de envíos y el tracking.
 
-### ***4.1.2. Web Style Guidelines***
+### 4.1.2. Web Style Guidelines
 
 El logotipo se ubicará en la esquina superior izquierda y la barra de
-navegación centrada, acompañada de un **call to action** para su uso. La
+navegación centrada, acompañada de un call to action para su uso. La
 paleta de colores combinará tonos modernos (negros y naranjas) con
 tipografía clara y jerarquizada, transmitiendo confianza, eficiencia y
 facilidad de uso.
 
-### ***4.2. Information Architecture***
+### 4.2. Information Architecture
 
 Esta sección se centra en los elementos visuales, estilos, etiquetas y
 estructuras que se implementarán en la plataforma web y landing page de
 Sendify. Se definen los siguientes tópicos: Organization Systems,
 Labeling Systems, SEO and Meta Tags, y Searching and Navigation Systems.
 
-### ***4.2.1. Web Style Guidelines***
+### 4.2.1. Web Style Guidelines
 
-**1. Organization Systems**
+1. Organization Systems
 
 Sendify organizará su contenido en módulos clave para que los usuarios
 accedan fácilmente a las funciones principales:
 
--   **Gestión de Envíos**: creación y administración rápida de órdenes.
+- Gestión de Envíos: creación y administración rápida de órdenes.
+- Tracking Unificado: rastreo centralizado con estados en tiempo
+  real.
+- Cotización de Tarifas: comparación automática entre múltiples
+  couriers.
+- Notificaciones Inteligentes: alertas de retrasos, entregas y
+  estados.
+- Dashboard principal: resumen de envíos activos, en tránsito y
+  entregados.
 
--   **Tracking Unificado**: rastreo centralizado con estados en tiempo
-    > real.
-
--   **Cotización de Tarifas**: comparación automática entre múltiples
-    > couriers.
-
--   **Notificaciones Inteligentes**: alertas de retrasos, entregas y
-    > estados.
-
--   **Dashboard principal**: resumen de envíos activos, en tránsito y
-    > entregados.
-
-**2. Labeling Systems**
+2. Labeling Systems
 
 Los menús, botones y secciones estarán nombrados de forma clara y
 directa, alineados con el lenguaje del usuario. Ejemplos:
 
--   Botones destacados: **"Probar Demo"**, **"Registrarse Gratis"**,
-    > **"Acceder al Dashboard"**.
+- Botones destacados: **"Probar Demo"**, **"Registrarse Gratis"**,
+  **"Acceder al Dashboard"**.
+- Menú de navegación superior: Inicio, Funcionalidades, Beneficios,
+  Testimonios, Equipo, Precios.
+- Labels en módulos: Gestión de Envíos, Tracking Unificado,
+  Cotización de Tarifas, Notificaciones Inteligentes.
 
--   Menú de navegación superior: **Inicio, Funcionalidades, Beneficios,
-    > Testimonios, Equipo, Precios**.
-
--   Labels en módulos: **Gestión de Envíos**, **Tracking Unificado**,
-    > **Cotización de Tarifas**, **Notificaciones Inteligentes**.
-
-**3. SEO and Meta Tags**
+3. SEO and Meta Tags
 
 La plataforma usará estrategias de SEO para mejorar la visibilidad en
 buscadores:
 
--   **Meta Title**: Sendify -- Plataforma para gestionar y optimizar tus
-    > envíos.
+- Meta Title: Sendify -- Plataforma para gestionar y optimizar tus
+  envíos.
+- Meta Description: Simplifica tus envíos con Sendify: cotización
+  de tarifas, tracking unificado y notificaciones inteligentes en un
+  solo lugar.
+- Keywords: envíos, logística, tracking, courier, gestión de
+  envíos, cotizador de tarifas.
+- Etiquetas H1-H3:
+  - H1: "Simplifica y controla tus envíos con Sendify".
+  - H2: "Gestión de Envíos", "Tracking Unificado", "Cotización de
+    Tarifas", "Notificaciones Inteligentes".
+  - H3: Beneficios como "Reducción de Costos", "Ahorro de Tiempo".
 
--   **Meta Description**: Simplifica tus envíos con Sendify: cotización
-    > de tarifas, tracking unificado y notificaciones inteligentes en un
-    > solo lugar.
-
--   **Keywords**: envíos, logística, tracking, courier, gestión de
-    > envíos, cotizador de tarifas.
-
--   **Etiquetas H1-H3**:
-
-    -   H1: "Simplifica y controla tus envíos con Sendify".
-
-    -   H2: "Gestión de Envíos", "Tracking Unificado", "Cotización de
-        > Tarifas", "Notificaciones Inteligentes".
-
-    -   H3: Beneficios como "Reducción de Costos", "Ahorro de Tiempo".
-
-**4. Searching and Navigation Systems**
+4. Searching and Navigation Systems
 
 Sendify integrará un sistema de navegación intuitivo y consistente:
 
--   **Barra de navegación fija superior** con accesos rápidos a las
-    > secciones clave.
-
--   **CTA visibles y jerarquizados** en colores resaltantes (ej.
-    > naranja) para guiar la acción del usuario.
-
--   **Buscador interno** en el dashboard para filtrar envíos por
-    > cliente, estado o ciudad.
-
--   **Diseño responsive** para garantizar que la navegación sea fluida
-    > en desktop, tablet y móvil.
+- Barra de navegación fija superior con accesos rápidos a las
+  secciones clave.
+- CTA visibles y jerarquizados en colores resaltantes (ej.
+  naranja) para guiar la acción del usuario.
+- Buscador interno en el dashboard para filtrar envíos por
+  cliente, estado o ciudad.
+- Diseño responsive para garantizar que la navegación sea fluida
+  en desktop, tablet y móvil.
 
 ### 4.2.2. Labeling Systems  
 
@@ -319,7 +292,7 @@ Sendify integrará un sistema de navegación intuitivo y consistente:
 | *Contacto*    | Sección destinada a brindar al usuario los canales de comunicación disponibles, como correo, WhatsApp o formulario directo. |
 | *Dashboard*   | Acceso directo al panel principal, donde los usuarios registrados gestionan envíos, consultan tracking y visualizan reportes. |
 
-4.3.Landing Page UI Design.
+4.3. Landing Page UI Design.
 
 El diseño de la interfaz de usuario de nuestra landing page jugará un
 papel fundamental en el proyecto, pues representará el primer contacto
@@ -327,26 +300,49 @@ de los usuarios con nuestro producto. Será la oportunidad de ofrecer una
 experiencia atractiva y práctica, capaz de captar la atención de los
 visitantes y motivarlos a seguir explorando.
 
-### 4.3.1.Landing Page Wireframe
+### 4.3.1. Landing Page Wireframe
 
-<img width="840" height="494" alt="1" src="https://github.com/user-attachments/assets/e513bfe6-d09d-4996-be72-2cae8197c6c2" />
-<img width="841" height="517" alt="2" src="https://github.com/user-attachments/assets/3f41a74e-ccb0-4f6f-b706-f74cd68b0296" />
-<img width="838" height="708" alt="3" src="https://github.com/user-attachments/assets/a05b9fcc-a622-4506-b6f2-e774b09dd1cb" />
-<img width="845" height="450" alt="4" src="https://github.com/user-attachments/assets/137caf78-a777-4517-bb63-912a6eb37557" />
-<img width="842" height="354" alt="5" src="https://github.com/user-attachments/assets/5ad95324-41bf-419a-b78e-c2957096a00f" />
-<img width="848" height="720" alt="6" src="https://github.com/user-attachments/assets/bf9ad9d1-3572-4785-b981-758172c3942f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e513bfe6-d09d-4996-be72-2cae8197c6c2" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f41a74e-ccb0-4f6f-b706-f74cd68b0296" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a05b9fcc-a622-4506-b6f2-e774b09dd1cb" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/137caf78-a777-4517-bb63-912a6eb37557" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ad95324-41bf-419a-b78e-c2957096a00f" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf9ad9d1-3572-4785-b981-758172c3942f" width="800" />
+</p>
 
-### 4.3.2.Landing Page Mock-up.
-<img width="442" height="254" alt="1" src="https://github.com/user-attachments/assets/c22b2ae4-7633-44e2-98d9-837dde20d1ba" />
-<img width="439" height="238" alt="2" src="https://github.com/user-attachments/assets/67588119-6060-4bfc-9f7b-1fdd33fec916" />
-<img width="440" height="274" alt="3" src="https://github.com/user-attachments/assets/8affeb61-6e1b-4647-970e-a9fdd226e2b9" />
-<img width="437" height="212" alt="4" src="https://github.com/user-attachments/assets/2e023d69-8952-4998-8273-257611b3a02d" />
-<img width="444" height="208" alt="5" src="https://github.com/user-attachments/assets/67e482c2-376f-4d6b-8f36-543bf03ed672" />
-<img width="445" height="250" alt="6" src="https://github.com/user-attachments/assets/8f5fd713-a612-4515-af03-388e6e62cab5" />
+### 4.3.2. Landing Page Mock-up
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c22b2ae4-7633-44e2-98d9-837dde20d1ba" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67588119-6060-4bfc-9f7b-1fdd33fec916" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8affeb61-6e1b-4647-970e-a9fdd226e2b9" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e023d69-8952-4998-8273-257611b3a02d" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67e482c2-376f-4d6b-8f36-543bf03ed672" width="800" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f5fd713-a612-4515-af03-388e6e62cab5" width="800" />
+</p>
 
-
-## 4.4.Web Applications UX/UI Design.
+## 4.4. Web Applications UX/UI Design
 
 El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI)
 en Sendify busca ofrecer una plataforma logística centralizada que sea
@@ -356,7 +352,7 @@ trabajo simples para crear envíos, rastrearlos y gestionar pagos desde
 un solo panel.
 
 Por otro lado, la UI aplica un estilo moderno y minimalista, con botones
-llamativos (*Probar Demo, Registrarse, Acceder al Dashboard*), menús
+llamativos (Probar Demo, Registrarse, Acceder al Dashboard), menús
 claros y una disposición visual que prioriza la información clave como
 tracking en tiempo real, métricas y notificaciones.
 
@@ -364,297 +360,88 @@ Este enfoque busca combinar estética y funcionalidad, logrando que la
 experiencia de uso de Sendify sea no solo eficiente, sino también
 agradable y memorable para los usuarios.
 
-## 4.4.1.Web Applications Wireframes.
+## 4.4.1. Web Applications Wireframes
 
-<img width="1120" height="742" alt="1" src="https://github.com/user-attachments/assets/6c866104-ad90-41c8-bc12-d3ef6167641d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c866104-ad90-41c8-bc12-d3ef6167641d" width="800" />
+</p>
 
-## 4.4.2. Web Applications Wireflow Diagrams.
+## 4.4.2. Web Applications Wireflow Diagrams
+
 Los wireflow diagrams de SENDIFY muestran la estructura de navegación y flujos de usuario entre las diferentes vistas de la aplicación, combinando wireframes de baja fidelidad con los flujos de interacción.
 
-**Flujos de Navegación desde Landing:**
-<img width="1536" height="1024" alt="1" src="https://github.com/user-attachments/assets/bf5af5f9-6cf1-4b35-918f-45c8c40c0f8c" />
+Flujos de Navegación desde Landing:  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/988e6392-4ab9-4210-a2da-ddd64665cdca" width="800" />
+</p>
 
-**Flujos desde Dashboard Principal:**
-<img width="1536" height="1024" alt="2" src="https://github.com/user-attachments/assets/02fac5bf-9cb6-4e69-8291-3deafdf6bd2b" />
+Flujos desde Dashboard Principal:  
 
-**Flujo de Creación de Envío:**
-<img width="1024" height="1536" alt="3" src="https://github.com/user-attachments/assets/322bc803-e025-45d5-9883-615cdeee9aa1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74f4c266-d391-4842-8544-31415b8a073a" width="800" />
+</p>
 
-**Flujo de Tracking:**
-<img width="1024" height="1536" alt="4" src="https://github.com/user-attachments/assets/aa67be42-a039-4057-9bfc-db5870ee4b59" />
+Flujo de Creación de Envío:  
 
-**Flujo de Cotización:**
-<img width="1024" height="1536" alt="5" src="https://github.com/user-attachments/assets/0a8d3613-36f9-4f59-887e-93f17c8ce5a7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48a218f7-1cda-4290-8243-6ab874739154" width="800" />
+</p>
 
-**Flujo de Notificaciones:**
-<img width="1024" height="1024" alt="6" src="https://github.com/user-attachments/assets/8ecbcf5f-9262-4b47-a964-e6ba3eee6486" />
+Flujo de Tracking:  
 
-**Mapa de Navegación Completo:**
-<img width="1024" height="1024" alt="7" src="https://github.com/user-attachments/assets/edff2fff-5a47-4d87-889c-a8c86d321c04" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee65c34d-e925-4df3-8f99-36d13afd22aa" width="800" />
+</p>
 
-## **Conclusiones del Wireflow**
+Flujo de Cotización:  
 
-### **Principios de Diseño Aplicados:**
-1. **Navegación Intuitiva**: Máximo 3 clicks para cualquier acción
-2. **Feedback Visual**: Loading states y confirmaciones
-3. **Responsive First**: Adaptación completa mobile-desktop
-4. **Consistencia**: Patrones repetibles en todas las vistas
-5. **Accesibilidad**: Contraste, iconografía clara, flujos lineales
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/013102b3-b2be-4e52-be86-b98b3cfdd182" width="800" />
+</p>
 
-### **Métricas de UX:**
-- **Tiempo promedio por tarea**: 2-3 minutos
-- **Tasa de conversión objetivo**: 85% landing → dashboard
-- **Abandono de formularios**: <15% con validación en tiempo real
-- **Satisfacción de navegación**: 4.5/5 stars objetivo
+Flujo de Notificaciones:  
 
-### **Optimizaciones Implementadas:**
-- **Autocompletado** en formularios frecuentes
-- **Validación en tiempo real** para reducir errores
-- **Estados de loading** para feedback inmediato
-- **Breadcrumbs visuales** para orientación
-- **Acciones rápidas** en dashboard principal
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be79c5de-5391-483e-8842-b9db81395d50" width="800" />
+</p>
 
+Mapa de Navegación Completo:  
 
-## 4.4.3. Web Applications Mock-ups.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a21eda9-98a4-4694-8bf3-8a5e836d7412" width="800" />
+</p>
+
+## Conclusiones del Wireflow
+
+### Principios de Diseño Aplicados
+
+1. Navegación Intuitiva: Máximo 3 clicks para cualquier acción.
+2. Feedback Visual: Loading states y confirmaciones.
+3. Responsive First: Adaptación completa mobile-desktop.
+4. Consistencia: Patrones repetibles en todas las vistas.
+5. Accesibilidad: Contraste, iconografía clara, flujos lineales.
+
+### Métricas de UX
+
+- Tiempo promedio por tarea: 2-3 minutos.
+- Tasa de conversión objetivo: 85% landing → dashboard.
+- Abandono de formularios: <15% con validación en tiempo real.
+- Satisfacción de navegación: 4.5/5 stars objetivo.
+
+### Optimizaciones Implementadas
+
+- Autocompletado en formularios frecuentes.
+- Validación en tiempo real para reducir errores.
+- Estados de loading para feedback inmediato.
+- Breadcrumbs visuales para orientación.
+- Acciones rápidas en dashboard principal.
+
+## 4.4.3. Web Applications Mock-ups
+
 Los mock-ups de alta fidelidad de SENDIFY muestran el diseño visual final de la aplicación, incluyendo colores de marca, tipografía, espaciado y elementos interactivos exactos que se implementarán.
 
-## 🎨 **Sistema de Diseño SENDIFY**
+## 🎨 Sistema de Diseño SENDIFY
 
-### **Paleta de Colores:**
-```
-PRIMARY COLORS:
-🟠 Orange Brand: #FF9500 (Botones, CTAs, Acentos)
-⚫ Dark Background: #222222 (Fondo principal)
-⚪ White Text: #FFFFFF (Texto principal)
-
-SECONDARY COLORS:
-🔘 Card Background: #2A2A2A (Tarjetas, Modales)
-🔘 Border Color: #444444 (Bordes, Separadores)
-🔘 Secondary Text: #CCCCCC (Texto secundario)
-
-STATUS COLORS:
-🟢 Success: #10B981 (Entregado, Éxito)
-🟡 Warning: #F59E0B (En tránsito, Pendiente)
-🔴 Error: #DC2626 (Errores, Alertas)
-🔵 Info: #3B82F6 (Información, Estados)
-```
-
-### **Tipografía:**
-```
-FONT FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto
-SIZES:
-- H1: 2.25rem (36px) - Títulos principales
-- H2: 1.5rem (24px) - Títulos sección
-- H3: 1.125rem (18px) - Subtítulos
-- Body: 1rem (16px) - Texto normal
-- Small: 0.875rem (14px) - Texto pequeño
-```
-
-### **Espaciado y Grid:**
-```
-CONTAINER MAX-WIDTH: 1400px
-GRID SYSTEM: CSS Grid + Flexbox
-SPACING SCALE:
-- xs: 0.25rem (4px)
-- sm: 0.5rem (8px)
-- md: 1rem (16px)
-- lg: 1.5rem (24px)
-- xl: 3rem (48px)
-
-BORDER RADIUS:
-- sm: 0.375rem (6px)
-- md: 0.5rem (8px)
-- lg: 0.75rem (12px)
-- xl: 1rem (16px)
-```
-
-**Dashboard Mock-up**
-<img width="1356" height="859" alt="image" src="https://github.com/user-attachments/assets/07b4edbc-2191-457c-b5d9-cd90f25cc7d1" />
-
-**Crear Envío Mock-up**
-<img width="977" height="853" alt="image" src="https://github.com/user-attachments/assets/c2529bfd-9a4f-4e5b-a56b-645ef3748424" />
-
-**Form Validation States:**
-<img width="670" height="184" alt="image" src="https://github.com/user-attachments/assets/3fab2fbf-b02a-438c-9ffc-dd7443e2cbe2" />
-
-**Tracking Mock-up**
-<img width="1071" height="805" alt="image" src="https://github.com/user-attachments/assets/13ed95f0-1c64-4344-8bfe-52d7a12576e1" />
-
-**Tracking Not Found State:**
-<img width="589" height="270" alt="image" src="https://github.com/user-attachments/assets/49a0d9a9-9fc2-4e55-b977-6cfbe65b4520" />
-
-**Cotización Mock-up**
-<img width="1002" height="727" alt="image" src="https://github.com/user-attachments/assets/0840d974-e09c-4145-b033-c3b335053db0" />
-
-**Selected Courier State:**
-<img width="736" height="368" alt="image" src="https://github.com/user-attachments/assets/44c0fc93-3307-412b-83d0-a354d91ed04e" />
-
-**Notificaciones Mock-up**
-<img width="1034" height="861" alt="image" src="https://github.com/user-attachments/assets/1c57fb4d-f8a2-4c76-b812-c8202e4a9973" />
-<img width="1099" height="862" alt="image" src="https://github.com/user-attachments/assets/949b95a3-351a-48e8-b4cd-fd10572f3fe7" />
-
-**Conclusiones de Mock-ups**
-
-### **Consistencia Visual:**
-- **Paleta unificada**: #FF9500 como color primario consistente
-- **Tipografía escalable**: Sistema responsive de 0.75rem a 2.25rem
-- **Espaciado sistemático**: Grid de 4px base, múltiplos hasta 48px
-- **Estados claros**: Loading, error, success con colores distintivos
-
-### **Principios de Diseño:**
-- **Dark theme nativo**: #222222 bg optimizado para uso prolongado
-- **Contraste accesible**: WCAG AA compliance en todos los textos
-- **Feedback inmediato**: Estados hover, focus, loading visibles
-- **Mobile-first responsive**: Breakpoints 375px, 768px, 1024px, 1440px
-
-### **Optimizaciones UX:**
-- **Jerarquía visual clara**: Tamaños, colores y espaciado intencionales
-- **Navegación intuitiva**: Breadcrumbs, botones volver, estados activos
-- **Validación en tiempo real**: Errores inline, success confirmations
-- **Performance visual**: Lazy loading, smooth transitions, optimized assets
-
-Los mock-ups están listos para implementación directa, con especificaciones exactas de colores, tipografía, espaciado y estados interactivos que garantizan una experiencia visual consistente y profesional en toda la aplicación SENDIFY.
-
-## 4.4.4. Web Applications User Flow Diagrams.
-
-Los diagramas de flujo de usuario de SENDIFY mapean los caminos específicos que siguen los diferentes tipos de usuarios para completar tareas críticas en la plataforma de gestión logística.
-
-**1. Flujo Principal: Onboarding de Usuario**
-
-### **User Flow: Del Landing al Dashboard Activo**
-<img width="960" height="1192" alt="mermaid-diagram-2025-09-19-132258" src="https://github.com/user-attachments/assets/16d698db-f1a6-44ee-87ea-1579dd5e97e2" />
-
-
-**Explicación del Flujo:**
-Este diagrama mapea el journey crítico desde la primera impresión hasta la activación del usuario. El flujo se bifurca entre usuarios nuevos y recurrentes, optimizando cada camino. Para usuarios nuevos, el landing page actúa como filtro de calificación - aquellos que no ven valor claro abandonan temprano (normal y esperado), mientras que los convencidos avanzan al registro. El modal de registro implementa validación en tiempo real para minimizar fricción. Usuarios existentes bypass el proceso de convencimiento y van directo al login. El éxito se mide cuando el usuario ve sus estadísticas personalizadas en el dashboard, indicando activación completa.
-
-**2. Flujo Core: Crear y Rastrear Envío**
-
-### **User Flow: Proceso Completo de Envío**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-132359" src="https://github.com/user-attachments/assets/959460d8-f240-4a7d-a21b-21d5711ddf70" />
-
-
-**Explicación del Flujo:**
-Este es el flujo operacional más crítico de SENDIFY, donde se genera el 80% del valor para administradores logísticos. El sistema optimiza la experiencia con autocompletado inteligente basado en clientes frecuentes, reduciendo el tiempo de llenado de 8 minutos a 3 minutos promedio. La validación en tiempo real evita errores costosos de datos (direcciones incorrectas representan 30% de las incidencias). La generación automática del código SND-XXXX y la transición fluida al tracking aseguran que el usuario vea inmediatamente el resultado de su trabajo, creando satisfacción y confianza en el sistema.
-
-**3. Flujo Especializado: Cotización de Tarifas**
-
-### **User Flow: Comparación y Selección de Courier**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-132452" src="https://github.com/user-attachments/assets/b43764db-0520-482a-a4f2-35e4d4773420" />
-
-
-**Explicación del Flujo:**
-Este flujo implementa el épico de cotización inteligente, diferenciador clave de SENDIFY vs competencia. El sistema usa algoritmos de pricing dinámico que consideran peso, distancia y tipo de servicio para generar cotizaciones precisas en tiempo real. La ordenación automática por precio (más económico primero) ayuda a usuarios a optimizar costos, mientras que el sistema de recomendaciones destaca la mejor relación costo-beneficio. La integración con el flujo de creación de envíos (pre-llenado de courier seleccionado) crea una experiencia sin fricción. El 65% de usuarios que usan el cotizador reportan ahorro promedio de 25% en costos vs selección manual de courier.
-
-**4. Flujo de Notificaciones: Gestión de Alertas**
-
-### **User Flow: Configuración de Notificaciones**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-132537" src="https://github.com/user-attachments/assets/41bfb3ed-0053-43d2-a373-18fb036a8dba" />
-
-
-**Explicación del Flujo:**
-Este flujo implementa el épico de sistema de notificaciones automáticas, crítico para mantener la visibilidad operacional. El sistema prioriza alertas por urgencia (críticas primero) y permite configuración granular de canales (Email, WhatsApp, Push) y tipos de alerta. La integración con el tracking permite resolución directa de problemas desde la notificación. El diseño de tabs (Lista vs Configuración) separa consumo de información vs configuración, optimizando el workflow diario. El sistema de badges no leídos y la actualización en tiempo real mantienen a los usuarios informados proactivamente, reduciendo 60% las consultas manuales de estado.
-
-**5. Flujo de Tracking Público: Cliente Final**
-
-**User Flow: Cliente Rastreando su Envío**
-<img width="670" height="1163" alt="mermaid-diagram-2025-09-19-132931" src="https://github.com/user-attachments/assets/7a88b82d-df3d-4deb-a929-fab157bec981" />
-
-
-**Explicación del Flujo:**
-Este flujo representa el épico de tracking unificado desde la perspectiva del cliente final, optimizado para máxima simplicidad y claridad. El diseño mobile-first asume que 70% de las consultas se realizan desde dispositivos móviles. La barra de progreso visual y el timeline detallado reducen la ansiedad del cliente y minimizan consultas de soporte. El sistema de estados claros (Registrado → Entregado) con expectativas de tiempo específicas mejora la experiencia de espera. La funcionalidad de compartir tracking aumenta engagement y crea marketing viral orgánico. La tasa de satisfacción objetivo es >95% de comprensión del estado sin necesidad de contactar soporte.
-
-**6. Flujo B2B: Administrador Logístico**
-
-**User Flow: Gestión Diaria de Operaciones**
-<img width="670" height="1163" alt="mermaid-diagram-2025-09-19-133008" src="https://github.com/user-attachments/assets/d59be7c9-d112-4837-9229-5393669963f4" />
-
-
-
-**KPIs de Productividad:**
-
-```
-MÉTRICAS DIARIAS:
-• Envíos creados: 25-50 por día
-• Tiempo promedio por envío: 3-5 minutos
-• Alertas resueltas: <2 horas
-• Accuracy de datos: >95%
-• Satisfacción courier: >4.2/5
-
-OPTIMIZACIONES:
-• Autocompletado reduce 40% tiempo formulario
-• Cotizador reduce 25% costos promedio
-• Notificaciones reducen 60% llamadas manuales
-• Tracking reduce 80% consultas status
-```
-
-**7. Flujo E-commerce: Emprendedor PyME**
-
-**User Flow: Integración y Escalabilidad**
-<img width="670" height="1187" alt="mermaid-diagram-2025-09-19-133128" src="https://github.com/user-attachments/assets/ec12a91f-0f8e-4de3-a7c5-035152a91716" />
-
-
-
-```
-MANUAL PROCESS (Sin API):
-1. Pedido online → 2. Login SENDIFY → 3. Crear envío → 4. Copiar código → 5. Email cliente
-Tiempo: 5-8 minutos por envío
-
-AUTOMATED PROCESS (Con API):
-1. Pedido online → 2. Webhook SENDIFY → 3. Auto-crear envío → 4. Auto-email código
-Tiempo: 30 segundos automatizado
-
-ROI CALCULATION:
-Manual: 50 envíos/día × 6 min = 5 horas trabajo
-Automatizado: 50 envíos/día × 0.5 min = 0.4 horas
-AHORRO: 4.6 horas/día = 23 horas/semana = 92 horas/mes
-```
-
-
-**8. Flujo de Conversión: Free Trial → Paid Plan**
-
-**User Flow: Monetización Efectiva**
-<img width="670" height="1187" alt="mermaid-diagram-2025-09-19-133313" src="https://github.com/user-attachments/assets/1edf9eb5-2dbb-4c6e-9f27-8a9a66f026f0" />
-
-
-
-**Conclusiones de User Flows**
-
-**Métricas de Éxito por Usuario:**
-
-ADMINISTRADOR LOGÍSTICO:
-ask completion: >90%
-Time per shipment: <3 min
-Error rate: <5%
-Daily productivity: +40%
-
-EMPRENDEDOR:
-Setup time: <30 min
-API integration: <2 hours
-Cost reduction: 25%
-Time saved: 4.6h/day
-
-CLIENTE FINAL:
-Find tracking: <30 seconds
-Understand status: >95%
-Satisfaction: >4.5/5
-Support needed: <10%
-
-
-### **Optimizaciones Implementadas:**
-1. **Autocompletado inteligente**: Reduce 40% tiempo formularios
-2. **Deep linking**: Tracking directo desde notificaciones  
-3. **Progressive enhancement**: Funciona offline básico
-4. **Predictive loading**: Pre-carga vistas probables
-5. **Smart defaults**: Reduce clicks necesarios
-
-### **Puntos de Fricción Minimizados:**
-- **Registro largo** → **Registro express 3 campos**
-- **Formularios complejos** → **Autocompletado contextual**
-- **Búsqueda manual** →  **Deep links directos**
-- **Información dispersa** →  **Dashboard centralizado**
-- **Procesos manuales** →  **Automatización inteligente**
-
-Los user flows están optimizados para maximizar conversión, reducir abandono y garantizar una experiencia fluida para cada tipo de usuario en sus tareas más críticas dentro de SENDIFY.
+### Paleta de Colores
 
