@@ -461,10 +461,10 @@ STATUS COLORS:
 🔴 Error: #DC2626 (Errores, Alertas)
 🔵 Info: #3B82F6 (Información, Estados)
 
+shell
+Copiar código
 
 ### Tipografía
-
-
 
 FONT FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto
 SIZES:
@@ -479,10 +479,10 @@ Body: 1rem (16px) - Texto normal
 
 Small: 0.875rem (14px) - Texto pequeño
 
+shell
+Copiar código
 
 ### Espaciado y Grid
-
-
 
 CONTAINER MAX-WIDTH: 1400px
 GRID SYSTEM: CSS Grid + Flexbox
@@ -508,6 +508,8 @@ lg: 0.75rem (12px)
 
 xl: 1rem (16px)
 
+php-template
+Copiar código
 
 Dashboard Mock-up  
 
@@ -557,7 +559,7 @@ Notificaciones Mock-up
   <img src="https://github.com/user-attachments/assets/1c57fb4d-f8a2-4c76-b812-c8202e4a9973" width="800" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/949b95a3-351a-48e8-b4cd-fd10572f3fe7" width="800" />
+  <img src="https://github.com/user-attachments/assets/949b95f3-351a-48e8-b4cd-fd10572f3fe7" width="800" />
 </p>
 
 Conclusiones de Mock-ups
@@ -654,8 +656,6 @@ User Flow: Gestión Diaria de Operaciones
 
 KPIs de Productividad:
 
-
-
 MÉTRICAS DIARIAS:
 • Envíos creados: 25-50 por día
 • Tiempo promedio por envío: 3-5 minutos
@@ -669,6 +669,8 @@ OPTIMIZACIONES:
 • Notificaciones reducen 60% llamadas manuales
 • Tracking reduce 80% consultas status
 
+php-template
+Copiar código
 
 7. Flujo E-commerce: Emprendedor PyME
 
@@ -677,8 +679,6 @@ User Flow: Integración y Escalabilidad
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ec12a91f-0f8e-4de3-a7c5-035152a91716" width="800" />
 </p>
-
-
 
 MANUAL PROCESS (Sin API):
 
@@ -695,6 +695,8 @@ Manual: 50 envíos/día × 6 min = 5 horas trabajo
 Automatizado: 50 envíos/día × 0.5 min = 0.4 horas
 AHORRO: 4.6 horas/día = 23 horas/semana = 92 horas/mes
 
+yaml
+Copiar código
 
 8. Flujo de Conversión: Free Trial → Paid Plan
 
@@ -743,3 +745,5 @@ Support needed: <10%
 - Procesos manuales → Automatización inteligente.
 
 Los user flows están optimizados para maximizar conversión, reducir abandono y garantizar una experiencia fluida para cada tipo de usuario en sus tareas más críticas dentro de SENDIFY.
+
+
