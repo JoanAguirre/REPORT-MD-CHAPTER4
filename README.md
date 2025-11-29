@@ -373,44 +373,46 @@ Los wireflow diagrams de SENDIFY muestran la estructura de navegación y flujos 
 Flujos de Navegación desde Landing:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/988e6392-4ab9-4210-a2da-ddd64665cdca" width="800" />
+  <img src="https://github.com/user-attachments/assets/5880b9be-7108-4b29-8449-f02a995b8b05" width="800" />
 </p>
 
 Flujos desde Dashboard Principal:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74f4c266-d391-4842-8544-31415b8a073a" width="800" />
+  <img src="https://github.com/user-attachments/assets/2d157179-49b1-4c3e-9b09-c3da97a39d5e" width="800" />
 </p>
 
 Flujo de Creación de Envío:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48a218f7-1cda-4290-8243-6ab874739154" width="800" />
+  <img src="https://github.com/user-attachments/assets/dc559a25-b03d-4a7e-8415-fe99f9bfe57d" width="800" />
 </p>
 
 Flujo de Tracking:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee65c34d-e925-4df3-8f99-36d13afd22aa" width="800" />
+  <img src="https://github.com/user-attachments/assets/0ef37d1c-ad3d-46d1-82ff-c6ab02660bad" width="800" />
 </p>
+
 
 Flujo de Cotización:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/013102b3-b2be-4e52-be86-b98b3cfdd182" width="800" />
+  <img src="https://github.com/user-attachments/assets/6122191f-b672-4011-a365-1cd9e3e07ed8" width="800" />
 </p>
 
 Flujo de Notificaciones:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/be79c5de-5391-483e-8842-b9db81395d50" width="800" />
+  <img src="https://github.com/user-attachments/assets/8d75b679-52d5-4999-8a63-91bb3face3ef" width="800" />
 </p>
 
 Mapa de Navegación Completo:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a21eda9-98a4-4694-8bf3-8a5e836d7412" width="800" />
+  <img src="https://github.com/user-attachments/assets/93571f68-6c5e-4d76-b977-471d9340561a" width="800" />
 </p>
+
 
 ## Conclusiones del Wireflow
 
