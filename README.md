@@ -372,26 +372,26 @@ agradable y memorable para los usuarios.
 Los wireflow diagrams de SENDIFY muestran la estructura de navegación y flujos de usuario entre las diferentes vistas de la aplicación, combinando wireframes de baja fidelidad con los flujos de interacción.
 
 **Flujos de Navegación desde Landing:**
-<img width="2017" height="1176" alt="mermaid-diagram-2025-09-19-124737" src="https://github.com/user-attachments/assets/988e6392-4ab9-4210-a2da-ddd64665cdca" />
+<img width="1536" height="1024" alt="1" src="https://github.com/user-attachments/assets/bf5af5f9-6cf1-4b35-918f-45c8c40c0f8c" />
 
 
 **Flujos desde Dashboard Principal:**
-<img width="2017" height="1176" alt="mermaid-diagram-2025-09-19-124841" src="https://github.com/user-attachments/assets/74f4c266-d391-4842-8544-31415b8a073a" />
+<img width="1536" height="1024" alt="2" src="https://github.com/user-attachments/assets/02fac5bf-9cb6-4e69-8291-3deafdf6bd2b" />
 
 **Flujo de Creación de Envío:**
-<img width="2017" height="1176" alt="mermaid-diagram-2025-09-19-125059" src="https://github.com/user-attachments/assets/48a218f7-1cda-4290-8243-6ab874739154" />
+<img width="1024" height="1536" alt="3" src="https://github.com/user-attachments/assets/322bc803-e025-45d5-9883-615cdeee9aa1" />
 
 **Flujo de Tracking:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125306" src="https://github.com/user-attachments/assets/ee65c34d-e925-4df3-8f99-36d13afd22aa" />
+<img width="1024" height="1536" alt="4" src="https://github.com/user-attachments/assets/aa67be42-a039-4057-9bfc-db5870ee4b59" />
 
 **Flujo de Cotización:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125336" src="https://github.com/user-attachments/assets/013102b3-b2be-4e52-be86-b98b3cfdd182" />
+<img width="1024" height="1536" alt="5" src="https://github.com/user-attachments/assets/0a8d3613-36f9-4f59-887e-93f17c8ce5a7" />
 
 **Flujo de Notificaciones:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125406" src="https://github.com/user-attachments/assets/be79c5de-5391-483e-8842-b9db81395d50" />
+<img width="1024" height="1024" alt="6" src="https://github.com/user-attachments/assets/8ecbcf5f-9262-4b47-a964-e6ba3eee6486" />
 
 **Mapa de Navegación Completo:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125439" src="https://github.com/user-attachments/assets/4a21eda9-98a4-4694-8bf3-8a5e836d7412" />
+<img width="1024" height="1024" alt="7" src="https://github.com/user-attachments/assets/edff2fff-5a47-4d87-889c-a8c86d321c04" />
 
 ## **Conclusiones del Wireflow**
 
