@@ -445,6 +445,7 @@ Los mock-ups de alta fidelidad de SENDIFY muestran el diseño visual final de la
 
 ### Paleta de Colores
 
+```
 PRIMARY COLORS:
 🟠 Orange Brand: #FF9500 (Botones, CTAs, Acentos)
 ⚫ Dark Background: #222222 (Fondo principal)
@@ -460,290 +461,174 @@ STATUS COLORS:
 🟡 Warning: #F59E0B (En tránsito, Pendiente)
 🔴 Error: #DC2626 (Errores, Alertas)
 🔵 Info: #3B82F6 (Información, Estados)
-
-shell
-Copiar código
+```
 
 ### Tipografía
 
+```
 FONT FAMILY: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto
 SIZES:
-
-H1: 2.25rem (36px) - Títulos principales
-
-H2: 1.5rem (24px) - Títulos sección
-
-H3: 1.125rem (18px) - Subtítulos
-
-Body: 1rem (16px) - Texto normal
-
-Small: 0.875rem (14px) - Texto pequeño
-
-shell
-Copiar código
+- H1: 2.25rem (36px)
+- H2: 1.5rem (24px)
+- H3: 1.125rem (18px)
+- Body: 1rem (16px)
+- Small: 0.875rem (14px)
+```
 
 ### Espaciado y Grid
 
+```
 CONTAINER MAX-WIDTH: 1400px
 GRID SYSTEM: CSS Grid + Flexbox
 SPACING SCALE:
-
-xs: 0.25rem (4px)
-
-sm: 0.5rem (8px)
-
-md: 1rem (16px)
-
-lg: 1.5rem (24px)
-
-xl: 3rem (48px)
+- xs: 0.25rem (4px)
+- sm: 0.5rem (8px)
+- md: 1rem (16px)
+- lg: 1.5rem (24px)
+- xl: 3rem (48px)
 
 BORDER RADIUS:
+- sm: 0.375rem (6px)
+- md: 0.5rem (8px)
+- lg: 0.75rem (12px)
+- xl: 1rem (16px)
+```
 
-sm: 0.375rem (6px)
+### Dashboard Mock-up
+<p align="center"><img src="https://github.com/user-attachments/assets/07b4edbc-2191-457c-b5d9-cd90f25cc7d1" width="800" /></p>
 
-md: 0.5rem (8px)
+### Crear Envío Mock-up
+<p align="center"><img src="https://github.com/user-attachments/assets/c2529bfd-9a4f-4e5b-a56b-645ef3748424" width="800" /></p>
 
-lg: 0.75rem (12px)
+### Form Validation States
+<p align="center"><img src="https://github.com/user-attachments/assets/3fab2fbf-b02a-438c-9ffc-dd7443e2cbe2" width="800" /></p>
 
-xl: 1rem (16px)
+### Tracking Mock-up
+<p align="center"><img src="https://github.com/user-attachments/assets/13ed95f0-1c64-4344-8bfe-52d7a12576e1" width="800" /></p>
 
-php-template
-Copiar código
+### Tracking Not Found State
+<p align="center"><img src="https://github.com/user-attachments/assets/49a0d9a9-9fc2-4e55-b977-6cfbe65b4520" width="800" /></p>
 
-Dashboard Mock-up  
+### Cotización Mock-up
+<p align="center"><img src="https://github.com/user-attachments/assets/0840d974-e09c-4145-b033-c3b335053db0" width="800" /></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/07b4edbc-2191-457c-b5d9-cd90f25cc7d1" width="800" />
-</p>
+### Selected Courier State
+<p align="center"><img src="https://github.com/user-attachments/assets/44c0fc93-3307-412b-83d0-a354d91ed04e" width="800" /></p>
 
-Crear Envío Mock-up  
+### Notificaciones Mock-up
+<p align="center"><img src="https://github.com/user-attachments/assets/1c57fb4d-f8a2-4c76-b812-c8202e4a9973" width="800" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/949b95a3-351a-48e8-b4cd-fd10572f3fe7" width="800" /></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c2529bfd-9a4f-4e5b-a56b-645ef3748424" width="800" />
-</p>
+---
 
-Form Validation States:  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3fab2fbf-b02a-438c-9ffc-dd7443e2cbe2" width="800" />
-</p>
-
-Tracking Mock-up  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/13ed95f0-1c64-4344-8bfe-52d7a12576e1" width="800" />
-</p>
-
-Tracking Not Found State:  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49a0d9a9-9fc2-4e55-b977-6cfbe65b4520" width="800" />
-</p>
-
-Cotización Mock-up  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0840d974-e09c-4145-b033-c3b335053db0" width="800" />
-</p>
-
-Selected Courier State:  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/44c0fc93-3307-412b-83d0-a354d91ed04e" width="800" />
-</p>
-
-Notificaciones Mock-up  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1c57fb4d-f8a2-4c76-b812-c8202e4a9973" width="800" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/949b95f3-351a-48e8-b4cd-fd10572f3fe7" width="800" />
-</p>
-
-Conclusiones de Mock-ups
+## Conclusiones de Mock-ups
 
 ### Consistencia Visual
-
-- Paleta unificada: #FF9500 como color primario consistente.
-- Tipografía escalable: Sistema responsive de 0.75rem a 2.25rem.
-- Espaciado sistemático: Grid de 4px base, múltiplos hasta 48px.
-- Estados claros: Loading, error, success con colores distintivos.
+- Paleta unificada: #FF9500 como color primario.
+- Tipografía escalable.
+- Espaciado sistemático (grid 4px).
+- Estados claros: loading, error, success.
 
 ### Principios de Diseño
-
-- Dark theme nativo: #222222 bg optimizado para uso prolongado.
-- Contraste accesible: WCAG AA compliance en todos los textos.
-- Feedback inmediato: Estados hover, focus, loading visibles.
-- Mobile-first responsive: Breakpoints 375px, 768px, 1024px, 1440px.
+- Dark theme nativo (#222222).
+- Contraste accesible WCAG AA.
+- Feedback inmediato.
+- Mobile-first responsive.
 
 ### Optimizaciones UX
+- Jerarquía clara.
+- Navegación intuitiva.
+- Validación en tiempo real.
+- Animaciones suaves y assets optimizados.
 
-- Jerarquía visual clara: Tamaños, colores y espaciado intencionales.
-- Navegación intuitiva: Breadcrumbs, botones volver, estados activos.
-- Validación en tiempo real: Errores inline, success confirmations.
-- Performance visual: Lazy loading, smooth transitions, optimized assets.
-
-Los mock-ups están listos para implementación directa, con especificaciones exactas de colores, tipografía, espaciado y estados interactivos que garantizan una experiencia visual consistente y profesional en toda la aplicación SENDIFY.
+---
 
 ## 4.4.4. Web Applications User Flow Diagrams
 
-Los diagramas de flujo de usuario de SENDIFY mapean los caminos específicos que siguen los diferentes tipos de usuarios para completar tareas críticas en la plataforma de gestión logística.
+Los diagramas de flujo de usuario de SENDIFY mapean los caminos que siguen los usuarios para completar tareas dentro de la plataforma.
 
-1. Flujo Principal: Onboarding de Usuario
+---
 
-### User Flow: Del Landing al Dashboard Activo
+### 1. Flujo Principal: Onboarding de Usuario
+#### User Flow: Del Landing al Dashboard Activo
+<p align="center"><img src="https://github.com/user-attachments/assets/16d698db-f1a6-44ee-87ea-1579dd5e97e2" width="800" /></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/16d698db-f1a6-44ee-87ea-1579dd5e97e2" width="800" />
-</p>
+---
 
-Explicación del Flujo:  
-Este diagrama mapea el journey crítico desde la primera impresión hasta la activación del usuario. El flujo se bifurca entre usuarios nuevos y recurrentes, optimizando cada camino. Para usuarios nuevos, el landing page actúa como filtro de calificación - aquellos que no ven valor claro abandonan temprano (normal y esperado), mientras que los convencidos avanzan al registro. El modal de registro implementa validación en tiempo real para minimizar fricción. Usuarios existentes bypass el proceso de convencimiento y van directo al login. El éxito se mide cuando el usuario ve sus estadísticas personalizadas en el dashboard, indicando activación completa.
+### 2. Flujo Core: Crear y Rastrear Envío
+#### User Flow: Proceso Completo de Envío
+<p align="center"><img src="https://github.com/user-attachments/assets/959460d8-f240-4a7d-a21b-21d5711ddf70" width="800" /></p>
 
-2. Flujo Core: Crear y Rastrear Envío
+---
 
-### User Flow: Proceso Completo de Envío
+### 3. Flujo Especializado: Cotización de Tarifas
+#### User Flow: Comparación y Selección de Courier
+<p align="center"><img src="https://github.com/user-attachments/assets/b43764db-0520-482a-a4f2-35e4d4773420" width="800" /></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/959460d8-f240-4a7d-a21b-21d5711ddf70" width="800" />
-</p>
+---
 
-Explicación del Flujo:  
-Este es el flujo operacional más crítico de SENDIFY, donde se genera el 80% del valor para administradores logísticos. El sistema optimiza la experiencia con autocompletado inteligente basado en clientes frecuentes, reduciendo el tiempo de llenado de 8 minutos a 3 minutos promedio. La validación en tiempo real evita errores costosos de datos (direcciones incorrectas representan 30% de las incidencias). La generación automática del código SND-XXXX y la transición fluida al tracking aseguran que el usuario vea inmediatamente el resultado de su trabajo, creando satisfacción y confianza en el sistema.
+### 4. Flujo de Notificaciones
+#### User Flow: Configuración de Notificaciones
+<p align="center"><img src="https://github.com/user-attachments/assets/41bfb3ed-0053-43d2-a373-18fb036a8dba" width="800" /></p>
 
-3. Flujo Especializado: Cotización de Tarifas
+---
 
-### User Flow: Comparación y Selección de Courier
+### 5. Tracking Público: Cliente Final
+#### User Flow: Cliente Rastreando su Envío
+<p align="center"><img src="https://github.com/user-attachments/assets/7a88b82d-df3d-4deb-a929-fab157bec981" width="800" /></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b43764db-0520-482a-a4f2-35e4d4773420" width="800" />
-</p>
+---
 
-Explicación del Flujo:  
-Este flujo implementa el épico de cotización inteligente, diferenciador clave de SENDIFY vs competencia. El sistema usa algoritmos de pricing dinámico que consideran peso, distancia y tipo de servicio para generar cotizaciones precisas en tiempo real. La ordenación automática por precio (más económico primero) ayuda a usuarios a optimizar costos, mientras que el sistema de recomendaciones destaca la mejor relación costo-beneficio. La integración con el flujo de creación de envíos (pre-llenado de courier seleccionado) crea una experiencia sin fricción. El 65% de usuarios que usan el cotizador reportan ahorro promedio de 25% en costos vs selección manual de courier.
+### 6. Flujo B2B: Administrador Logístico
+<p align="center"><img src="https://github.com/user-attachments/assets/d59be7c9-d112-4837-9229-5393669963f4" width="800" /></p>
 
-4. Flujo de Notificaciones: Gestión de Alertas
+---
 
-### User Flow: Configuración de Notificaciones
+### 7. Flujo E-commerce: Emprendedor PyME
+<p align="center"><img src="https://github.com/user-attachments/assets/ec12a91f-0f8e-4de3-a7c5-035152a91716" width="800" /></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/41bfb3ed-0053-43d2-a373-18fb036a8dba" width="800" />
-</p>
+---
 
-Explicación del Flujo:  
-Este flujo implementa el épico de sistema de notificaciones automáticas, crítico para mantener la visibilidad operacional. El sistema prioriza alertas por urgencia (críticas primero) y permite configuración granular de canales (Email, WhatsApp, Push) y tipos de alerta. La integración con el tracking permite resolución directa de problemas desde la notificación. El diseño de tabs (Lista vs Configuración) separa consumo de información vs configuración, optimizando el workflow diario. El sistema de badges no leídos y la actualización en tiempo real mantienen a los usuarios informados proactivamente, reduciendo 60% las consultas manuales de estado.
+### 8. Flujo de Conversión: Free Trial → Paid Plan
+<p align="center"><img src="https://github.com/user-attachments/assets/1edf9eb5-2dbb-4c6e-9f27-8a9a66f026f0" width="800" /></p>
 
-5. Flujo de Tracking Público: Cliente Final
+---
 
-User Flow: Cliente Rastreando su Envío  
+## Conclusiones de User Flows
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7a88b82d-df3d-4deb-a929-fab157bec981" width="800" />
-</p>
+### Métricas de Éxito por Usuario
 
-Explicación del Flujo:  
-Este flujo representa el épico de tracking unificado desde la perspectiva del cliente final, optimizado para máxima simplicidad y claridad. El diseño mobile-first asume que 70% de las consultas se realizan desde dispositivos móviles. La barra de progreso visual y el timeline detallado reducen la ansiedad del cliente y minimizan consultas de soporte. El sistema de estados claros (Registrado → Entregado) con expectativas de tiempo específicas mejora la experiencia de espera. La funcionalidad de compartir tracking aumenta engagement y crea marketing viral orgánico. La tasa de satisfacción objetivo es >95% de comprensión del estado sin necesidad de contactar soporte.
+Administrador logístico:  
+- Task completion: >90%  
+- Tiempo por envío: <3 min  
+- Error rate: <5%  
+- Productividad: +40%
 
-6. Flujo B2B: Administrador Logístico
+Emprendedor:  
+- Setup: <30 min  
+- API integration: <2 h  
+- Cost reduction: 25%  
+- Ahorro: 4.6h/día  
 
-User Flow: Gestión Diaria de Operaciones  
+Cliente final:  
+- Encuentra tracking <30s  
+- Comprensión estado: >95%  
+- Soporte requerido: <10%
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d59be7c9-d112-4837-9229-5393669963f4" width="800" />
-</p>
+### Optimizaciones
 
-KPIs de Productividad:
+1. Autocompletado inteligente  
+2. Deep linking  
+3. Progressive enhancement  
+4. Predictive loading  
+5. Smart defaults  
 
-MÉTRICAS DIARIAS:
-• Envíos creados: 25-50 por día
-• Tiempo promedio por envío: 3-5 minutos
-• Alertas resueltas: <2 horas
-• Accuracy de datos: >95%
-• Satisfacción courier: >4.2/5
+### Fricciones Eliminadas
 
-OPTIMIZACIONES:
-• Autocompletado reduce 40% tiempo formulario
-• Cotizador reduce 25% costos promedio
-• Notificaciones reducen 60% llamadas manuales
-• Tracking reduce 80% consultas status
+- Registro largo → Express  
+- Formularios complejos → Autocompletado  
+- Búsqueda manual → Deep links  
+- Información dispersa → Dashboard centralizado  
+- Procesos manuales → Automatización inteligente  
 
-php-template
-Copiar código
-
-7. Flujo E-commerce: Emprendedor PyME
-
-User Flow: Integración y Escalabilidad  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ec12a91f-0f8e-4de3-a7c5-035152a91716" width="800" />
-</p>
-
-MANUAL PROCESS (Sin API):
-
-Pedido online → 2. Login SENDIFY → 3. Crear envío → 4. Copiar código → 5. Email cliente
-Tiempo: 5-8 minutos por envío
-
-AUTOMATED PROCESS (Con API):
-
-Pedido online → 2. Webhook SENDIFY → 3. Auto-crear envío → 4. Auto-email código
-Tiempo: 30 segundos automatizado
-
-ROI CALCULATION:
-Manual: 50 envíos/día × 6 min = 5 horas trabajo
-Automatizado: 50 envíos/día × 0.5 min = 0.4 horas
-AHORRO: 4.6 horas/día = 23 horas/semana = 92 horas/mes
-
-yaml
-Copiar código
-
-8. Flujo de Conversión: Free Trial → Paid Plan
-
-User Flow: Monetización Efectiva  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1edf9eb5-2dbb-4c6e-9f27-8a9a66f026f0" width="800" />
-</p>
-
-Conclusiones de User Flows
-
-Métricas de Éxito por Usuario:
-
-ADMINISTRADOR LOGÍSTICO:  
-Task completion: >90%  
-Time per shipment: <3 min  
-Error rate: <5%  
-Daily productivity: +40%
-
-EMPRENDEDOR:  
-Setup time: <30 min  
-API integration: <2 hours  
-Cost reduction: 25%  
-Time saved: 4.6h/day  
-
-CLIENTE FINAL:  
-Find tracking: <30 seconds  
-Understand status: >95%  
-Satisfaction: >4.5/5  
-Support needed: <10%
-
-### Optimizaciones Implementadas
-
-1. Autocompletado inteligente: Reduce 40% tiempo formularios.
-2. Deep linking: Tracking directo desde notificaciones.  
-3. Progressive enhancement: Funciona offline básico.
-4. Predictive loading: Pre-carga vistas probables.
-5. Smart defaults: Reduce clicks necesarios.
-
-### Puntos de Fricción Minimizados
-
-- Registro largo → Registro express 3 campos.
-- Formularios complejos → Autocompletado contextual.
-- Búsqueda manual → Deep links directos.
-- Información dispersa → Dashboard centralizado.
-- Procesos manuales → Automatización inteligente.
-
-Los user flows están optimizados para maximizar conversión, reducir abandono y garantizar una experiencia fluida para cada tipo de usuario en sus tareas más críticas dentro de SENDIFY.
-
-
+Los user flows están optimizados para conversión, reducción de abandono y experiencia fluida en toda la plataforma SENDIFY.
