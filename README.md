@@ -4,12 +4,8 @@
 UX Heuristics & Principles Evaluation  
 Usability – Inclusive Design – Information Architecture
 
-Carrera: Ingeniería de Software  
-Curso: Aplicaciones Web  
-Sección: —  
-Profesores: —  
-Auditor: —  
-Cliente(s): —  
+Carrera: Ingeniería de Software 
+Cliente(s): Sendify
 
 ---
 
